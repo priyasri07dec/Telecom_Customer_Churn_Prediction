@@ -106,6 +106,8 @@ The trained model was deployed using Streamlit.
 
 ![Dashboard_CustomerAnalysis](Dashboard_CustomerAnalysis.png)
 
+![Dashboard_KeyInsights](Dashboard_KeyInsights.png)
+
 ## Business Impact
 This solution enables telecom companies to:
 
@@ -115,5 +117,5 @@ This solution enables telecom companies to:
 * Reduce customer acquisition costs
 * Increase long-term profitability
 
-![Dashboard_KeyInsights](Dashboard_KeyInsights.png)
+
 
