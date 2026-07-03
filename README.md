@@ -36,3 +36,60 @@ Feature Scaling
 Model Training
 Model Evaluation
 Streamlit Deployment
+
+## Exploratory Data Analysis
+Key visualizations performed:
+
+Customer Churn Distribution
+Contract Type vs Churn
+Internet Service vs Churn
+Monthly Charges Distribution
+
+## Key Insights
+Customers with month-to-month contracts are more likely to churn.
+Fiber optic customers showed higher churn rates.
+Longer contract durations significantly reduced churn.
+Monthly charges influenced customer retention.
+
+## Machine Learning Models
+The following classification algorithms were trained and evaluated:
+
+Logistic Regression
+Decision Tree Classifier
+Random Forest Classifier
+Support Vector Classifier (SVC)
+K-Nearest Neighbors (KNN)
+
+## Handling Class Imbalance
+The target variable showed moderate class imbalance.
+
+To analyze its impact, all models were trained under two scenarios:
+
+Without SMOTE
+With SMOTE
+
+After evaluation, models trained without SMOTE achieved better overall performance. Therefore, the original dataset was used for the final model.
+
+## Final Selected Model
+#### Logistic Regression
+
+Reason for selection:
+
+* Highest prediction accuracy
+* Better generalization
+* Stable performance
+* Efficient deployment
+
+## Deployment
+The trained model was deployed using Streamlit.
+
+##### Application Features
+* Interactive user interface
+* Real-time churn prediction
+* Automatic preprocessing
+* Dynamic feature encoding
+* Responsive layout
+
+## Project Screenshots
+
+#### Streamlit Home Page
