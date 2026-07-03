@@ -95,3 +95,25 @@ The trained model was deployed using Streamlit.
 #### Streamlit Home Page
 
 ![App_HomePage](web_page.png)
+
+#### Prediction Output
+
+![App_web_page_result](web_page_result.png)
+
+#### Dashboard
+
+![Dashboard_HomePage](Dashboard_HomePage.png)
+
+![Dashboard_CustomerAnalysis](Dashboard_CustomerAnalysis.png)
+
+## Business Impact
+This solution enables telecom companies to:
+
+* Identify customers at risk of churn
+* Improve customer retention strategies
+* Support data-driven business decisions
+* Reduce customer acquisition costs
+* Increase long-term profitability
+
+![Dashboard_KeyInsights](Dashboard_KeyInsights.png)
+
