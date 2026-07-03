@@ -93,3 +93,5 @@ The trained model was deployed using Streamlit.
 ## Project Screenshots
 
 #### Streamlit Home Page
+
+![App_HomePage](web_page.png)
